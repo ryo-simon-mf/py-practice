@@ -1,3 +1,4 @@
+#run python v2.*~
 import time
 
 print 'The time is      :', time.ctime()
